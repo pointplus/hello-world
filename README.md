@@ -1,2 +1,2 @@
 # hello-world
-My first repository for Hello World projects.
+My first repository for a Hello World project.
